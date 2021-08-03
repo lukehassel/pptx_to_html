@@ -18,6 +18,6 @@ setuptools.setup(
     ],                                      # Information to filter the project on PyPi website
     python_requires='>=3.6',                # Minimum version requirement of the package
     py_modules=["quicksample"],             # Name of the python package
-    package_dir={'':'quicksample/src'},     # Directory of the source code of the package
+    package_dir={'':''},     # Directory of the source code of the package
     install_requires=[]                     # Install other dependencies if any
 )
