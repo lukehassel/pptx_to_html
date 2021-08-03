@@ -9,20 +9,14 @@ from pptx_to_html.data.datasources.generate_html import generate_html
 
 class PowerPointInterface:
 
-    def __init__(self, path):
-        self.path = path
-
-    def get_content(self) -> str:
+    def get_content(self, path) -> str:
         pass
 
 
 class PowerPoint(PowerPointInterface):
 
-    def __init__(self, path):
-        super().__init__(path)
-
-    def get_content(self) -> str:
-        text = self.read(self.path)
+    def get_content(self, path) -> str:
+        text = self.read(path)
         html = generate_html(text)
 
         return html
