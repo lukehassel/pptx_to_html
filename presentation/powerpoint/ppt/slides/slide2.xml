@@ -1,0 +1,2504 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<p:sld xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
+       xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+       xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+    <p:cSld>
+        <p:spTree>
+            <p:nvGrpSpPr>
+                <p:cNvPr id="1" name=""/>
+                <p:cNvGrpSpPr/>
+                <p:nvPr/>
+            </p:nvGrpSpPr>
+            <p:grpSpPr>
+                <a:xfrm>
+                    <a:off x="0" y="0"/>
+                    <a:ext cx="0" cy="0"/>
+                    <a:chOff x="0" y="0"/>
+                    <a:chExt cx="0" cy="0"/>
+                </a:xfrm>
+            </p:grpSpPr>
+            <p:sp>
+                <p:nvSpPr>
+                    <p:cNvPr id="47" name="Rectangle 46">
+                        <a:extLst>
+                            <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                id="{BED589E9-5B43-4A98-BB59-50EB377D5B81}"/>
+                            </a:ext>
+                        </a:extLst>
+                    </p:cNvPr>
+                    <p:cNvSpPr/>
+                    <p:nvPr/>
+                </p:nvSpPr>
+                <p:spPr>
+                    <a:xfrm>
+                        <a:off x="-28420" y="5481985"/>
+                        <a:ext cx="7584920" cy="1136125"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                        <a:avLst/>
+                    </a:prstGeom>
+                    <a:solidFill>
+                        <a:schemeClr val="tx1">
+                            <a:lumMod val="10000"/>
+                            <a:lumOff val="90000"/>
+                        </a:schemeClr>
+                    </a:solidFill>
+                    <a:ln>
+                        <a:noFill/>
+                    </a:ln>
+                </p:spPr>
+                <p:style>
+                    <a:lnRef idx="2">
+                        <a:schemeClr val="accent1">
+                            <a:shade val="50000"/>
+                        </a:schemeClr>
+                    </a:lnRef>
+                    <a:fillRef idx="1">
+                        <a:schemeClr val="accent1"/>
+                    </a:fillRef>
+                    <a:effectRef idx="0">
+                        <a:schemeClr val="accent1"/>
+                    </a:effectRef>
+                    <a:fontRef idx="minor">
+                        <a:schemeClr val="lt1"/>
+                    </a:fontRef>
+                </p:style>
+                <p:txBody>
+                    <a:bodyPr rtlCol="0" anchor="ctr"/>
+                    <a:lstStyle/>
+                    <a:p>
+                        <a:pPr algn="ctr"/>
+                        <a:endParaRPr lang="de-DE">
+                            <a:solidFill>
+                                <a:schemeClr val="bg1"/>
+                            </a:solidFill>
+                        </a:endParaRPr>
+                    </a:p>
+                </p:txBody>
+            </p:sp>
+            <p:sp>
+                <p:nvSpPr>
+                    <p:cNvPr id="40" name="Inhaltsplatzhalter 2">
+                        <a:extLst>
+                            <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                id="{69D79C3B-22AE-AC46-AA14-AE0D97DAD346}"/>
+                            </a:ext>
+                        </a:extLst>
+                    </p:cNvPr>
+                    <p:cNvSpPr txBox="1">
+                        <a:spLocks/>
+                    </p:cNvSpPr>
+                    <p:nvPr/>
+                </p:nvSpPr>
+                <p:spPr>
+                    <a:xfrm>
+                        <a:off x="532800" y="1979594"/>
+                        <a:ext cx="5563200" cy="1796350"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                        <a:avLst/>
+                    </a:prstGeom>
+                    <a:noFill/>
+                </p:spPr>
+                <p:txBody>
+                    <a:bodyPr vert="horz" lIns="0" tIns="0" rIns="0" bIns="0" rtlCol="0">
+                        <a:noAutofit/>
+                    </a:bodyPr>
+                    <a:lstStyle>
+                        <a:lvl1pPr marL="228600" indent="-228600" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1"
+                                   latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="90000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPts val="1000"/>
+                            </a:spcBef>
+                            <a:buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+                            <a:buChar char="•"/>
+                            <a:defRPr sz="1800" kern="1200">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="+mj-lt"/>
+                                <a:ea typeface="Open Sans" panose="020B0606030504020204" pitchFamily="34" charset="0"/>
+                                <a:cs typeface="Calibri" panose="020F0502020204030204" pitchFamily="34" charset="0"/>
+                            </a:defRPr>
+                        </a:lvl1pPr>
+                        <a:lvl2pPr marL="685800" indent="-228600" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1"
+                                   latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="90000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPts val="500"/>
+                            </a:spcBef>
+                            <a:buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+                            <a:buChar char="•"/>
+                            <a:defRPr sz="1800" kern="1200">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="+mj-lt"/>
+                                <a:ea typeface="+mn-ea"/>
+                                <a:cs typeface="+mn-cs"/>
+                            </a:defRPr>
+                        </a:lvl2pPr>
+                        <a:lvl3pPr marL="1143000" indent="-228600" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1"
+                                   latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="90000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPts val="500"/>
+                            </a:spcBef>
+                            <a:buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+                            <a:buChar char="•"/>
+                            <a:defRPr sz="1800" kern="1200">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="+mj-lt"/>
+                                <a:ea typeface="+mn-ea"/>
+                                <a:cs typeface="+mn-cs"/>
+                            </a:defRPr>
+                        </a:lvl3pPr>
+                        <a:lvl4pPr marL="1600200" indent="-228600" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1"
+                                   latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="90000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPts val="500"/>
+                            </a:spcBef>
+                            <a:buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+                            <a:buChar char="•"/>
+                            <a:defRPr sz="1800" kern="1200">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="+mj-lt"/>
+                                <a:ea typeface="+mn-ea"/>
+                                <a:cs typeface="+mn-cs"/>
+                            </a:defRPr>
+                        </a:lvl4pPr>
+                        <a:lvl5pPr marL="2057400" indent="-228600" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1"
+                                   latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="90000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPts val="500"/>
+                            </a:spcBef>
+                            <a:buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+                            <a:buChar char="•"/>
+                            <a:defRPr sz="1800" kern="1200">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="+mj-lt"/>
+                                <a:ea typeface="+mn-ea"/>
+                                <a:cs typeface="+mn-cs"/>
+                            </a:defRPr>
+                        </a:lvl5pPr>
+                        <a:lvl6pPr marL="2514600" indent="-228600" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1"
+                                   latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="90000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPts val="500"/>
+                            </a:spcBef>
+                            <a:buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+                            <a:buChar char="•"/>
+                            <a:defRPr sz="1800" kern="1200">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="+mn-lt"/>
+                                <a:ea typeface="+mn-ea"/>
+                                <a:cs typeface="+mn-cs"/>
+                            </a:defRPr>
+                        </a:lvl6pPr>
+                        <a:lvl7pPr marL="2971800" indent="-228600" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1"
+                                   latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="90000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPts val="500"/>
+                            </a:spcBef>
+                            <a:buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+                            <a:buChar char="•"/>
+                            <a:defRPr sz="1800" kern="1200">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="+mn-lt"/>
+                                <a:ea typeface="+mn-ea"/>
+                                <a:cs typeface="+mn-cs"/>
+                            </a:defRPr>
+                        </a:lvl7pPr>
+                        <a:lvl8pPr marL="3429000" indent="-228600" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1"
+                                   latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="90000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPts val="500"/>
+                            </a:spcBef>
+                            <a:buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+                            <a:buChar char="•"/>
+                            <a:defRPr sz="1800" kern="1200">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="+mn-lt"/>
+                                <a:ea typeface="+mn-ea"/>
+                                <a:cs typeface="+mn-cs"/>
+                            </a:defRPr>
+                        </a:lvl8pPr>
+                        <a:lvl9pPr marL="3886200" indent="-228600" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1"
+                                   latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="90000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPts val="500"/>
+                            </a:spcBef>
+                            <a:buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+                            <a:buChar char="•"/>
+                            <a:defRPr sz="1800" kern="1200">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="+mn-lt"/>
+                                <a:ea typeface="+mn-ea"/>
+                                <a:cs typeface="+mn-cs"/>
+                            </a:defRPr>
+                        </a:lvl9pPr>
+                    </a:lstStyle>
+                    <a:p>
+                        <a:pPr marL="0" indent="0">
+                            <a:buNone/>
+                        </a:pPr>
+                        <a:r>
+                            <a:rPr lang="de-DE" sz="1200" dirty="0">
+                                <a:latin typeface="Roboto Light" panose="02000000000000000000" pitchFamily="2"
+                                         charset="0"/>
+                                <a:ea typeface="Roboto Light" panose="02000000000000000000" pitchFamily="2"
+                                      charset="0"/>
+                            </a:rPr>
+                            <a:t>Neue Inhalts-Plattformen und</a:t>
+                        </a:r>
+                        <a:r>
+                            <a:rPr lang="de-DE" sz="1200" dirty="0" err="1">
+                                <a:latin typeface="Roboto Light" panose="02000000000000000000" pitchFamily="2"
+                                         charset="0"/>
+                                <a:ea typeface="Roboto Light" panose="02000000000000000000" pitchFamily="2"
+                                      charset="0"/>
+                            </a:rPr>
+                            <a:t>Academies</a:t>
+                        </a:r>
+                        <a:r>
+                            <a:rPr lang="de-DE" sz="1200" dirty="0">
+                                <a:latin typeface="Roboto Light" panose="02000000000000000000" pitchFamily="2"
+                                         charset="0"/>
+                                <a:ea typeface="Roboto Light" panose="02000000000000000000" pitchFamily="2"
+                                      charset="0"/>
+                            </a:rPr>
+                            <a:t>kommen auf den Markt und werden von Unternehmen eingebunden.</a:t>
+                        </a:r>
+                    </a:p>
+                    <a:p>
+                        <a:pPr marL="0" indent="0">
+                            <a:buNone/>
+                        </a:pPr>
+                        <a:r>
+                            <a:rPr lang="de-DE" sz="1200" dirty="0">
+                                <a:latin typeface="Roboto Light" panose="02000000000000000000" pitchFamily="2"
+                                         charset="0"/>
+                                <a:ea typeface="Roboto Light" panose="02000000000000000000" pitchFamily="2"
+                                      charset="0"/>
+                            </a:rPr>
+                            <a:t>Daneben entstehen täglich neue öffentlich frei verfügbare Inhalte (Blogs, Videos,
+                                Podcasts), die bei der persönlichen Weiterentwicklung helfen können.
+                            </a:t>
+                        </a:r>
+                    </a:p>
+                    <a:p>
+                        <a:pPr marL="0" indent="0">
+                            <a:buNone/>
+                        </a:pPr>
+                        <a:r>
+                            <a:rPr lang="de-DE" sz="1200" dirty="0">
+                                <a:latin typeface="Roboto Light" panose="02000000000000000000" pitchFamily="2"
+                                         charset="0"/>
+                                <a:ea typeface="Roboto Light" panose="02000000000000000000" pitchFamily="2"
+                                      charset="0"/>
+                            </a:rPr>
+                            <a:t>Unternehmen und Mitarbeiter verlieren den Überblick und profitieren</a:t>
+                        </a:r>
+                        <a:r>
+                            <a:rPr lang="de-DE" sz="1200" b="1" dirty="0">
+                                <a:latin typeface="Roboto Light" panose="02000000000000000000" pitchFamily="2"
+                                         charset="0"/>
+                                <a:ea typeface="Roboto Light" panose="02000000000000000000" pitchFamily="2"
+                                      charset="0"/>
+                            </a:rPr>
+                            <a:t>nicht nachhaltig</a:t>
+                        </a:r>
+                        <a:r>
+                            <a:rPr lang="de-DE" sz="1200" dirty="0">
+                                <a:latin typeface="Roboto Light" panose="02000000000000000000" pitchFamily="2"
+                                         charset="0"/>
+                                <a:ea typeface="Roboto Light" panose="02000000000000000000" pitchFamily="2"
+                                      charset="0"/>
+                            </a:rPr>
+                            <a:t>von den Maßnahmen. Kein roter Faden hält sie zusammen, keine kurzen Follow-</a:t>
+                        </a:r>
+                        <a:r>
+                            <a:rPr lang="de-DE" sz="1200" dirty="0" err="1">
+                                <a:latin typeface="Roboto Light" panose="02000000000000000000" pitchFamily="2"
+                                         charset="0"/>
+                                <a:ea typeface="Roboto Light" panose="02000000000000000000" pitchFamily="2"
+                                      charset="0"/>
+                            </a:rPr>
+                            <a:t>up</a:t>
+                        </a:r>
+                        <a:r>
+                            <a:rPr lang="de-DE" sz="1200" dirty="0">
+                                <a:latin typeface="Roboto Light" panose="02000000000000000000" pitchFamily="2"
+                                         charset="0"/>
+                                <a:ea typeface="Roboto Light" panose="02000000000000000000" pitchFamily="2"
+                                      charset="0"/>
+                            </a:rPr>
+                            <a:t>Momente greifen das Gelernte auf. Lernen ohne Transfer verschwendet jedoch die Zeit der
+                                Lernenden und das Geld der Unternehmen.
+                            </a:t>
+                        </a:r>
+                    </a:p>
+                </p:txBody>
+            </p:sp>
+            <p:sp>
+                <p:nvSpPr>
+                    <p:cNvPr id="41" name="Inhaltsplatzhalter 4">
+                        <a:extLst>
+                            <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                id="{866E457F-D5CB-2D4A-8560-3D12221EDD79}"/>
+                            </a:ext>
+                        </a:extLst>
+                    </p:cNvPr>
+                    <p:cNvSpPr txBox="1">
+                        <a:spLocks/>
+                    </p:cNvSpPr>
+                    <p:nvPr/>
+                </p:nvSpPr>
+                <p:spPr>
+                    <a:xfrm>
+                        <a:off x="2412462" y="5838234"/>
+                        <a:ext cx="4897218" cy="455896"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                        <a:avLst/>
+                    </a:prstGeom>
+                    <a:noFill/>
+                </p:spPr>
+                <p:txBody>
+                    <a:bodyPr vert="horz" lIns="36000" tIns="36000" rIns="36000" bIns="36000" rtlCol="0" anchor="ctr">
+                        <a:noAutofit/>
+                    </a:bodyPr>
+                    <a:lstStyle>
+                        <a:lvl1pPr marL="228600" indent="-228600" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1"
+                                   latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="90000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPts val="1000"/>
+                            </a:spcBef>
+                            <a:buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+                            <a:buChar char="•"/>
+                            <a:defRPr sz="1800" kern="1200">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="+mj-lt"/>
+                                <a:ea typeface="Open Sans" panose="020B0606030504020204" pitchFamily="34" charset="0"/>
+                                <a:cs typeface="Calibri" panose="020F0502020204030204" pitchFamily="34" charset="0"/>
+                            </a:defRPr>
+                        </a:lvl1pPr>
+                        <a:lvl2pPr marL="685800" indent="-228600" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1"
+                                   latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="90000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPts val="500"/>
+                            </a:spcBef>
+                            <a:buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+                            <a:buChar char="•"/>
+                            <a:defRPr sz="1800" kern="1200">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="+mj-lt"/>
+                                <a:ea typeface="+mn-ea"/>
+                                <a:cs typeface="+mn-cs"/>
+                            </a:defRPr>
+                        </a:lvl2pPr>
+                        <a:lvl3pPr marL="1143000" indent="-228600" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1"
+                                   latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="90000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPts val="500"/>
+                            </a:spcBef>
+                            <a:buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+                            <a:buChar char="•"/>
+                            <a:defRPr sz="1800" kern="1200">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="+mj-lt"/>
+                                <a:ea typeface="+mn-ea"/>
+                                <a:cs typeface="+mn-cs"/>
+                            </a:defRPr>
+                        </a:lvl3pPr>
+                        <a:lvl4pPr marL="1600200" indent="-228600" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1"
+                                   latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="90000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPts val="500"/>
+                            </a:spcBef>
+                            <a:buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+                            <a:buChar char="•"/>
+                            <a:defRPr sz="1800" kern="1200">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="+mj-lt"/>
+                                <a:ea typeface="+mn-ea"/>
+                                <a:cs typeface="+mn-cs"/>
+                            </a:defRPr>
+                        </a:lvl4pPr>
+                        <a:lvl5pPr marL="2057400" indent="-228600" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1"
+                                   latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="90000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPts val="500"/>
+                            </a:spcBef>
+                            <a:buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+                            <a:buChar char="•"/>
+                            <a:defRPr sz="1800" kern="1200">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="+mj-lt"/>
+                                <a:ea typeface="+mn-ea"/>
+                                <a:cs typeface="+mn-cs"/>
+                            </a:defRPr>
+                        </a:lvl5pPr>
+                        <a:lvl6pPr marL="2514600" indent="-228600" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1"
+                                   latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="90000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPts val="500"/>
+                            </a:spcBef>
+                            <a:buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+                            <a:buChar char="•"/>
+                            <a:defRPr sz="1800" kern="1200">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="+mn-lt"/>
+                                <a:ea typeface="+mn-ea"/>
+                                <a:cs typeface="+mn-cs"/>
+                            </a:defRPr>
+                        </a:lvl6pPr>
+                        <a:lvl7pPr marL="2971800" indent="-228600" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1"
+                                   latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="90000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPts val="500"/>
+                            </a:spcBef>
+                            <a:buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+                            <a:buChar char="•"/>
+                            <a:defRPr sz="1800" kern="1200">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="+mn-lt"/>
+                                <a:ea typeface="+mn-ea"/>
+                                <a:cs typeface="+mn-cs"/>
+                            </a:defRPr>
+                        </a:lvl7pPr>
+                        <a:lvl8pPr marL="3429000" indent="-228600" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1"
+                                   latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="90000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPts val="500"/>
+                            </a:spcBef>
+                            <a:buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+                            <a:buChar char="•"/>
+                            <a:defRPr sz="1800" kern="1200">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="+mn-lt"/>
+                                <a:ea typeface="+mn-ea"/>
+                                <a:cs typeface="+mn-cs"/>
+                            </a:defRPr>
+                        </a:lvl8pPr>
+                        <a:lvl9pPr marL="3886200" indent="-228600" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1"
+                                   latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="90000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPts val="500"/>
+                            </a:spcBef>
+                            <a:buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+                            <a:buChar char="•"/>
+                            <a:defRPr sz="1800" kern="1200">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="+mn-lt"/>
+                                <a:ea typeface="+mn-ea"/>
+                                <a:cs typeface="+mn-cs"/>
+                            </a:defRPr>
+                        </a:lvl9pPr>
+                    </a:lstStyle>
+                    <a:p>
+                        <a:pPr marL="0" indent="0">
+                            <a:buNone/>
+                        </a:pPr>
+                        <a:r>
+                            <a:rPr lang="de-DE" sz="1000" b="1" i="1" dirty="0">
+                                <a:latin typeface="Roboto Light" panose="02000000000000000000" pitchFamily="2"
+                                         charset="0"/>
+                                <a:ea typeface="Roboto Light" panose="02000000000000000000" pitchFamily="2"
+                                      charset="0"/>
+                            </a:rPr>
+                            <a:t>500.000</a:t>
+                        </a:r>
+                        <a:r>
+                            <a:rPr lang="de-DE" sz="1000" i="1" dirty="0">
+                                <a:latin typeface="Roboto Light" panose="02000000000000000000" pitchFamily="2"
+                                         charset="0"/>
+                                <a:ea typeface="Roboto Light" panose="02000000000000000000" pitchFamily="2"
+                                      charset="0"/>
+                            </a:rPr>
+                            <a:t>digitale Trainingsmodule hat die Metro AG ihren Mitarbeiter*innen im Jahr 2017 / 2018
+                                angeboten. Also bereits
+                            </a:t>
+                        </a:r>
+                        <a:r>
+                            <a:rPr lang="de-DE" sz="1000" i="1" u="sng" dirty="0">
+                                <a:latin typeface="Roboto Light" panose="02000000000000000000" pitchFamily="2"
+                                         charset="0"/>
+                                <a:ea typeface="Roboto Light" panose="02000000000000000000" pitchFamily="2"
+                                      charset="0"/>
+                            </a:rPr>
+                            <a:t>vor</a:t>
+                        </a:r>
+                        <a:r>
+                            <a:rPr lang="de-DE" sz="1000" i="1" dirty="0">
+                                <a:latin typeface="Roboto Light" panose="02000000000000000000" pitchFamily="2"
+                                         charset="0"/>
+                                <a:ea typeface="Roboto Light" panose="02000000000000000000" pitchFamily="2"
+                                      charset="0"/>
+                            </a:rPr>
+                            <a:t>der Covid-19 Pandemie. Die Zahl dürfte weiter gestiegen sein: Fast ein Drittel der
+                                Unternehmen hat während der Corona-Krise laufende oder bereits geplante
+                                Präsenzveranstaltungen durch digitale Lernangebote ersetzt.
+                            </a:t>
+                        </a:r>
+                        <a:br>
+                            <a:rPr lang="de-DE" sz="1000" i="1" dirty="0">
+                                <a:latin typeface="Roboto Light" panose="02000000000000000000" pitchFamily="2"
+                                         charset="0"/>
+                                <a:ea typeface="Roboto Light" panose="02000000000000000000" pitchFamily="2"
+                                      charset="0"/>
+                            </a:rPr>
+                        </a:br>
+                        <a:r>
+                            <a:rPr lang="de-DE" sz="1000" b="1" i="1" dirty="0">
+                                <a:latin typeface="Roboto Light" panose="02000000000000000000" pitchFamily="2"
+                                         charset="0"/>
+                                <a:ea typeface="Roboto Light" panose="02000000000000000000" pitchFamily="2"
+                                      charset="0"/>
+                            </a:rPr>
+                            <a:t>Wie können Passung und Nachhaltigkeit dieser enormen Zahl an Angeboten sichergestellt
+                                und die Qualität der Quantität angepasst werden?
+                            </a:t>
+                        </a:r>
+                    </a:p>
+                </p:txBody>
+            </p:sp>
+            <p:sp>
+                <p:nvSpPr>
+                    <p:cNvPr id="36" name="Textfeld 35">
+                        <a:extLst>
+                            <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                id="{AF46381E-7F8C-5043-BD4D-C819F37DF7F2}"/>
+                            </a:ext>
+                        </a:extLst>
+                    </p:cNvPr>
+                    <p:cNvSpPr txBox="1"/>
+                    <p:nvPr/>
+                </p:nvSpPr>
+                <p:spPr>
+                    <a:xfrm>
+                        <a:off x="532800" y="4196473"/>
+                        <a:ext cx="5563200" cy="738664"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                        <a:avLst/>
+                    </a:prstGeom>
+                    <a:noFill/>
+                </p:spPr>
+                <p:txBody>
+                    <a:bodyPr wrap="square" lIns="0" tIns="0" rIns="0" bIns="0" rtlCol="0">
+                        <a:spAutoFit/>
+                    </a:bodyPr>
+                    <a:lstStyle/>
+                    <a:p>
+                        <a:pPr lvl="0">
+                            <a:defRPr/>
+                        </a:pPr>
+                        <a:r>
+                            <a:rPr lang="de-DE" sz="1600" dirty="0">
+                                <a:latin typeface="Rubrik New Bold" pitchFamily="2" charset="77"/>
+                            </a:rPr>
+                            <a:t>Wie können die zahllosen Einzelmaßnahmen auf unterschiedlichen Plattformen zu</a:t>
+                        </a:r>
+                        <a:r>
+                            <a:rPr lang="de-DE" sz="1600" dirty="0">
+                                <a:solidFill>
+                                    <a:schemeClr val="accent4"/>
+                                </a:solidFill>
+                                <a:latin typeface="Rubrik New Bold" pitchFamily="2" charset="77"/>
+                            </a:rPr>
+                            <a:t>nachhaltigen Lernpfaden verbunden</a:t>
+                        </a:r>
+                        <a:r>
+                            <a:rPr lang="de-DE" sz="1600" dirty="0">
+                                <a:solidFill>
+                                    <a:schemeClr val="accent2"/>
+                                </a:solidFill>
+                                <a:latin typeface="Rubrik New Bold" pitchFamily="2" charset="77"/>
+                            </a:rPr>
+                            <a:t></a:t>
+                        </a:r>
+                        <a:r>
+                            <a:rPr lang="de-DE" sz="1600" dirty="0">
+                                <a:latin typeface="Rubrik New Bold" pitchFamily="2" charset="77"/>
+                            </a:rPr>
+                            <a:t>werden?</a:t>
+                        </a:r>
+                    </a:p>
+                </p:txBody>
+            </p:sp>
+            <p:grpSp>
+                <p:nvGrpSpPr>
+                    <p:cNvPr id="4" name="Gruppieren 3">
+                        <a:extLst>
+                            <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                id="{A76577B7-AC95-B540-B3B6-1AD43BA89F22}"/>
+                            </a:ext>
+                        </a:extLst>
+                    </p:cNvPr>
+                    <p:cNvGrpSpPr/>
+                    <p:nvPr/>
+                </p:nvGrpSpPr>
+                <p:grpSpPr>
+                    <a:xfrm>
+                        <a:off x="6661499" y="1979594"/>
+                        <a:ext cx="3898201" cy="3035226"/>
+                        <a:chOff x="7842085" y="2486702"/>
+                        <a:chExt cx="3898201" cy="3035226"/>
+                    </a:xfrm>
+                </p:grpSpPr>
+                <p:pic>
+                    <p:nvPicPr>
+                        <p:cNvPr id="1028" name="Picture 4">
+                            <a:extLst>
+                                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                    <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                    id="{AAAC9192-B894-5A4F-9EBA-EF47CC9ADC82}"/>
+                                </a:ext>
+                            </a:extLst>
+                        </p:cNvPr>
+                        <p:cNvPicPr>
+                            <a:picLocks noChangeAspect="1" noChangeArrowheads="1"/>
+                        </p:cNvPicPr>
+                        <p:nvPr/>
+                    </p:nvPicPr>
+                    <p:blipFill>
+                        <a:blip r:embed="rId3">
+                            <a:extLst>
+                                <a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
+                                    <a14:useLocalDpi xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main"/>
+                                </a:ext>
+                            </a:extLst>
+                        </a:blip>
+                        <a:srcRect/>
+                        <a:stretch>
+                            <a:fillRect/>
+                        </a:stretch>
+                    </p:blipFill>
+                    <p:spPr bwMode="auto">
+                        <a:xfrm>
+                            <a:off x="9580552" y="2632672"/>
+                            <a:ext cx="1834586" cy="416951"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="rect">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:noFill/>
+                        <a:extLst>
+                            <a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+                                <a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+                                    <a:solidFill>
+                                        <a:srgbClr val="FFFFFF"/>
+                                    </a:solidFill>
+                                </a14:hiddenFill>
+                            </a:ext>
+                        </a:extLst>
+                    </p:spPr>
+                </p:pic>
+                <p:pic>
+                    <p:nvPicPr>
+                        <p:cNvPr id="1030" name="Picture 6"
+                                 descr="Saba Learning Review – 2021 Pricing, Features, Shortcomings">
+                            <a:extLst>
+                                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                    <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                    id="{19FB5A53-FD2C-E04E-947D-1F9EE43CB136}"/>
+                                </a:ext>
+                            </a:extLst>
+                        </p:cNvPr>
+                        <p:cNvPicPr>
+                            <a:picLocks noChangeAspect="1" noChangeArrowheads="1"/>
+                        </p:cNvPicPr>
+                        <p:nvPr/>
+                    </p:nvPicPr>
+                    <p:blipFill>
+                        <a:blip r:embed="rId4" cstate="screen">
+                            <a:extLst>
+                                <a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
+                                    <a14:useLocalDpi xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main"/>
+                                </a:ext>
+                            </a:extLst>
+                        </a:blip>
+                        <a:srcRect/>
+                        <a:stretch>
+                            <a:fillRect/>
+                        </a:stretch>
+                    </p:blipFill>
+                    <p:spPr bwMode="auto">
+                        <a:xfrm>
+                            <a:off x="9110818" y="4792472"/>
+                            <a:ext cx="729456" cy="729456"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="rect">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:noFill/>
+                        <a:extLst>
+                            <a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+                                <a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+                                    <a:solidFill>
+                                        <a:srgbClr val="FFFFFF"/>
+                                    </a:solidFill>
+                                </a14:hiddenFill>
+                            </a:ext>
+                        </a:extLst>
+                    </p:spPr>
+                </p:pic>
+                <p:pic>
+                    <p:nvPicPr>
+                        <p:cNvPr id="1032" name="Picture 8"
+                                 descr="Kurse online, Trainings, Videos, Live - Lernen mit quofox">
+                            <a:extLst>
+                                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                    <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                    id="{7273A290-6890-C049-8D7C-80799BC6AA96}"/>
+                                </a:ext>
+                            </a:extLst>
+                        </p:cNvPr>
+                        <p:cNvPicPr>
+                            <a:picLocks noChangeAspect="1" noChangeArrowheads="1"/>
+                        </p:cNvPicPr>
+                        <p:nvPr/>
+                    </p:nvPicPr>
+                    <p:blipFill>
+                        <a:blip r:embed="rId5" cstate="screen">
+                            <a:extLst>
+                                <a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
+                                    <a14:useLocalDpi xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main"/>
+                                </a:ext>
+                            </a:extLst>
+                        </a:blip>
+                        <a:srcRect/>
+                        <a:stretch>
+                            <a:fillRect/>
+                        </a:stretch>
+                    </p:blipFill>
+                    <p:spPr bwMode="auto">
+                        <a:xfrm>
+                            <a:off x="7842085" y="3685624"/>
+                            <a:ext cx="1644576" cy="375202"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="rect">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:noFill/>
+                        <a:extLst>
+                            <a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+                                <a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+                                    <a:solidFill>
+                                        <a:srgbClr val="FFFFFF"/>
+                                    </a:solidFill>
+                                </a14:hiddenFill>
+                            </a:ext>
+                        </a:extLst>
+                    </p:spPr>
+                </p:pic>
+                <p:pic>
+                    <p:nvPicPr>
+                        <p:cNvPr id="1034" name="Picture 10"
+                                 descr="Pressematerial | Masterplan.com - Innovative Weiterbildungsplattform für  Unternehmen">
+                            <a:extLst>
+                                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                    <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                    id="{611D2221-6D7D-A941-978B-76A5F8FCE8DF}"/>
+                                </a:ext>
+                            </a:extLst>
+                        </p:cNvPr>
+                        <p:cNvPicPr>
+                            <a:picLocks noChangeAspect="1" noChangeArrowheads="1"/>
+                        </p:cNvPicPr>
+                        <p:nvPr/>
+                    </p:nvPicPr>
+                    <p:blipFill>
+                        <a:blip r:embed="rId6" cstate="screen">
+                            <a:extLst>
+                                <a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
+                                    <a14:useLocalDpi xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main"/>
+                                </a:ext>
+                            </a:extLst>
+                        </a:blip>
+                        <a:srcRect/>
+                        <a:stretch>
+                            <a:fillRect/>
+                        </a:stretch>
+                    </p:blipFill>
+                    <p:spPr bwMode="auto">
+                        <a:xfrm>
+                            <a:off x="10235104" y="4547742"/>
+                            <a:ext cx="571788" cy="343073"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="rect">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:noFill/>
+                        <a:extLst>
+                            <a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+                                <a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+                                    <a:solidFill>
+                                        <a:srgbClr val="FFFFFF"/>
+                                    </a:solidFill>
+                                </a14:hiddenFill>
+                            </a:ext>
+                        </a:extLst>
+                    </p:spPr>
+                </p:pic>
+                <p:sp>
+                    <p:nvSpPr>
+                        <p:cNvPr id="51" name="Freihandform: Form 1992">
+                            <a:extLst>
+                                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                    <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                    id="{50F675C4-506E-8242-9D8D-FEEEA23214ED}"/>
+                                </a:ext>
+                            </a:extLst>
+                        </p:cNvPr>
+                        <p:cNvSpPr/>
+                        <p:nvPr/>
+                    </p:nvSpPr>
+                    <p:spPr>
+                        <a:xfrm>
+                            <a:off x="9902216" y="5051647"/>
+                            <a:ext cx="236024" cy="236024"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="roundRect">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:solidFill>
+                            <a:schemeClr val="accent6"/>
+                        </a:solidFill>
+                        <a:ln w="11626" cap="flat">
+                            <a:noFill/>
+                            <a:prstDash val="solid"/>
+                            <a:miter/>
+                        </a:ln>
+                    </p:spPr>
+                    <p:txBody>
+                        <a:bodyPr rtlCol="0" anchor="ctr"/>
+                        <a:lstStyle/>
+                        <a:p>
+                            <a:endParaRPr lang="de-DE"/>
+                        </a:p>
+                    </p:txBody>
+                </p:sp>
+                <p:sp>
+                    <p:nvSpPr>
+                        <p:cNvPr id="52" name="Freihandform: Form 1993">
+                            <a:extLst>
+                                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                    <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                    id="{D5CFDAD4-4206-EA42-A4C0-F23018D1691B}"/>
+                                </a:ext>
+                            </a:extLst>
+                        </p:cNvPr>
+                        <p:cNvSpPr/>
+                        <p:nvPr/>
+                    </p:nvSpPr>
+                    <p:spPr>
+                        <a:xfrm>
+                            <a:off x="10221790" y="5051647"/>
+                            <a:ext cx="236024" cy="236024"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="roundRect">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:solidFill>
+                            <a:schemeClr val="accent5">
+                                <a:lumMod val="40000"/>
+                                <a:lumOff val="60000"/>
+                            </a:schemeClr>
+                        </a:solidFill>
+                        <a:ln w="11626" cap="flat">
+                            <a:noFill/>
+                            <a:prstDash val="solid"/>
+                            <a:miter/>
+                        </a:ln>
+                    </p:spPr>
+                    <p:txBody>
+                        <a:bodyPr rtlCol="0" anchor="ctr"/>
+                        <a:lstStyle/>
+                        <a:p>
+                            <a:endParaRPr lang="de-DE"/>
+                        </a:p>
+                    </p:txBody>
+                </p:sp>
+                <p:sp>
+                    <p:nvSpPr>
+                        <p:cNvPr id="53" name="Freihandform: Form 1994">
+                            <a:extLst>
+                                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                    <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                    id="{06E9D43B-3D94-F948-A116-94908A60105C}"/>
+                                </a:ext>
+                            </a:extLst>
+                        </p:cNvPr>
+                        <p:cNvSpPr/>
+                        <p:nvPr/>
+                    </p:nvSpPr>
+                    <p:spPr>
+                        <a:xfrm>
+                            <a:off x="10541362" y="5051647"/>
+                            <a:ext cx="236137" cy="236024"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="roundRect">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:solidFill>
+                            <a:schemeClr val="accent3">
+                                <a:lumMod val="60000"/>
+                                <a:lumOff val="40000"/>
+                            </a:schemeClr>
+                        </a:solidFill>
+                        <a:ln w="11626" cap="flat">
+                            <a:noFill/>
+                            <a:prstDash val="solid"/>
+                            <a:miter/>
+                        </a:ln>
+                    </p:spPr>
+                    <p:txBody>
+                        <a:bodyPr rtlCol="0" anchor="ctr"/>
+                        <a:lstStyle/>
+                        <a:p>
+                            <a:endParaRPr lang="de-DE"/>
+                        </a:p>
+                    </p:txBody>
+                </p:sp>
+                <p:sp>
+                    <p:nvSpPr>
+                        <p:cNvPr id="55" name="Freihandform: Form 1996">
+                            <a:extLst>
+                                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                    <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                    id="{B76AB6BA-8E97-4C44-8175-1E208E1A2530}"/>
+                                </a:ext>
+                            </a:extLst>
+                        </p:cNvPr>
+                        <p:cNvSpPr/>
+                        <p:nvPr/>
+                    </p:nvSpPr>
+                    <p:spPr>
+                        <a:xfrm>
+                            <a:off x="9902216" y="4729984"/>
+                            <a:ext cx="236024" cy="236024"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="roundRect">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:solidFill>
+                            <a:schemeClr val="bg2"/>
+                        </a:solidFill>
+                        <a:ln w="11626" cap="flat">
+                            <a:noFill/>
+                            <a:prstDash val="solid"/>
+                            <a:miter/>
+                        </a:ln>
+                    </p:spPr>
+                    <p:txBody>
+                        <a:bodyPr rtlCol="0" anchor="ctr"/>
+                        <a:lstStyle/>
+                        <a:p>
+                            <a:endParaRPr lang="de-DE"/>
+                        </a:p>
+                    </p:txBody>
+                </p:sp>
+                <p:sp>
+                    <p:nvSpPr>
+                        <p:cNvPr id="56" name="Freihandform: Form 1997">
+                            <a:extLst>
+                                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                    <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                    id="{7B4F77CB-AEDE-9742-B42A-29417912B562}"/>
+                                </a:ext>
+                            </a:extLst>
+                        </p:cNvPr>
+                        <p:cNvSpPr/>
+                        <p:nvPr/>
+                    </p:nvSpPr>
+                    <p:spPr>
+                        <a:xfrm>
+                            <a:off x="10863025" y="4410411"/>
+                            <a:ext cx="236024" cy="236024"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="roundRect">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:solidFill>
+                            <a:schemeClr val="accent3">
+                                <a:lumMod val="60000"/>
+                                <a:lumOff val="40000"/>
+                            </a:schemeClr>
+                        </a:solidFill>
+                        <a:ln w="11626" cap="flat">
+                            <a:noFill/>
+                            <a:prstDash val="solid"/>
+                            <a:miter/>
+                        </a:ln>
+                    </p:spPr>
+                    <p:txBody>
+                        <a:bodyPr rtlCol="0" anchor="ctr"/>
+                        <a:lstStyle/>
+                        <a:p>
+                            <a:endParaRPr lang="de-DE"/>
+                        </a:p>
+                    </p:txBody>
+                </p:sp>
+                <p:sp>
+                    <p:nvSpPr>
+                        <p:cNvPr id="57" name="Freihandform: Form 1998">
+                            <a:extLst>
+                                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                    <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                    id="{69F53400-4841-9F45-9A03-B774C277F404}"/>
+                                </a:ext>
+                            </a:extLst>
+                        </p:cNvPr>
+                        <p:cNvSpPr/>
+                        <p:nvPr/>
+                    </p:nvSpPr>
+                    <p:spPr>
+                        <a:xfrm>
+                            <a:off x="10863025" y="4729984"/>
+                            <a:ext cx="236024" cy="236024"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="roundRect">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:solidFill>
+                            <a:srgbClr val="E8E6E6"/>
+                        </a:solidFill>
+                        <a:ln w="11626" cap="flat">
+                            <a:noFill/>
+                            <a:prstDash val="solid"/>
+                            <a:miter/>
+                        </a:ln>
+                    </p:spPr>
+                    <p:txBody>
+                        <a:bodyPr rtlCol="0" anchor="ctr"/>
+                        <a:lstStyle/>
+                        <a:p>
+                            <a:endParaRPr lang="de-DE"/>
+                        </a:p>
+                    </p:txBody>
+                </p:sp>
+                <p:sp>
+                    <p:nvSpPr>
+                        <p:cNvPr id="58" name="Freihandform: Form 1999">
+                            <a:extLst>
+                                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                    <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                    id="{EF7C6771-7E49-9848-AD5A-22868205F317}"/>
+                                </a:ext>
+                            </a:extLst>
+                        </p:cNvPr>
+                        <p:cNvSpPr/>
+                        <p:nvPr/>
+                    </p:nvSpPr>
+                    <p:spPr>
+                        <a:xfrm>
+                            <a:off x="8619743" y="4410411"/>
+                            <a:ext cx="236024" cy="236024"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="roundRect">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:solidFill>
+                            <a:schemeClr val="accent3">
+                                <a:lumMod val="60000"/>
+                                <a:lumOff val="40000"/>
+                            </a:schemeClr>
+                        </a:solidFill>
+                        <a:ln w="11626" cap="flat">
+                            <a:noFill/>
+                            <a:prstDash val="solid"/>
+                            <a:miter/>
+                        </a:ln>
+                    </p:spPr>
+                    <p:txBody>
+                        <a:bodyPr rtlCol="0" anchor="ctr"/>
+                        <a:lstStyle/>
+                        <a:p>
+                            <a:endParaRPr lang="de-DE"/>
+                        </a:p>
+                    </p:txBody>
+                </p:sp>
+                <p:sp>
+                    <p:nvSpPr>
+                        <p:cNvPr id="60" name="Freihandform: Form 2001">
+                            <a:extLst>
+                                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                    <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                    id="{AF47F750-4714-934E-AE78-F24FC424ECFA}"/>
+                                </a:ext>
+                            </a:extLst>
+                        </p:cNvPr>
+                        <p:cNvSpPr/>
+                        <p:nvPr/>
+                    </p:nvSpPr>
+                    <p:spPr>
+                        <a:xfrm>
+                            <a:off x="9260979" y="4729984"/>
+                            <a:ext cx="236024" cy="236024"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="roundRect">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:solidFill>
+                            <a:schemeClr val="accent3">
+                                <a:lumMod val="60000"/>
+                                <a:lumOff val="40000"/>
+                            </a:schemeClr>
+                        </a:solidFill>
+                        <a:ln w="11626" cap="flat">
+                            <a:noFill/>
+                            <a:prstDash val="solid"/>
+                            <a:miter/>
+                        </a:ln>
+                    </p:spPr>
+                    <p:txBody>
+                        <a:bodyPr rtlCol="0" anchor="ctr"/>
+                        <a:lstStyle/>
+                        <a:p>
+                            <a:endParaRPr lang="de-DE"/>
+                        </a:p>
+                    </p:txBody>
+                </p:sp>
+                <p:sp>
+                    <p:nvSpPr>
+                        <p:cNvPr id="61" name="Freihandform: Form 2002">
+                            <a:extLst>
+                                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                    <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                    id="{B22A8F2C-CF9D-D84E-A1B4-2EA4741E0F22}"/>
+                                </a:ext>
+                            </a:extLst>
+                        </p:cNvPr>
+                        <p:cNvSpPr/>
+                        <p:nvPr/>
+                    </p:nvSpPr>
+                    <p:spPr>
+                        <a:xfrm>
+                            <a:off x="9580552" y="4729984"/>
+                            <a:ext cx="236137" cy="236024"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="roundRect">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:solidFill>
+                            <a:schemeClr val="accent6"/>
+                        </a:solidFill>
+                        <a:ln w="11626" cap="flat">
+                            <a:noFill/>
+                            <a:prstDash val="solid"/>
+                            <a:miter/>
+                        </a:ln>
+                    </p:spPr>
+                    <p:txBody>
+                        <a:bodyPr rtlCol="0" anchor="ctr"/>
+                        <a:lstStyle/>
+                        <a:p>
+                            <a:endParaRPr lang="de-DE"/>
+                        </a:p>
+                    </p:txBody>
+                </p:sp>
+                <p:sp>
+                    <p:nvSpPr>
+                        <p:cNvPr id="62" name="Freihandform: Form 2003">
+                            <a:extLst>
+                                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                    <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                    id="{B33E0002-B15E-F742-A8BE-B10D3AB2E315}"/>
+                                </a:ext>
+                            </a:extLst>
+                        </p:cNvPr>
+                        <p:cNvSpPr/>
+                        <p:nvPr/>
+                    </p:nvSpPr>
+                    <p:spPr>
+                        <a:xfrm>
+                            <a:off x="8619743" y="4090837"/>
+                            <a:ext cx="236024" cy="236024"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="roundRect">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:solidFill>
+                            <a:schemeClr val="accent6">
+                                <a:lumMod val="60000"/>
+                                <a:lumOff val="40000"/>
+                            </a:schemeClr>
+                        </a:solidFill>
+                        <a:ln w="11626" cap="flat">
+                            <a:noFill/>
+                            <a:prstDash val="solid"/>
+                            <a:miter/>
+                        </a:ln>
+                    </p:spPr>
+                    <p:txBody>
+                        <a:bodyPr rtlCol="0" anchor="ctr"/>
+                        <a:lstStyle/>
+                        <a:p>
+                            <a:endParaRPr lang="de-DE"/>
+                        </a:p>
+                    </p:txBody>
+                </p:sp>
+                <p:sp>
+                    <p:nvSpPr>
+                        <p:cNvPr id="63" name="Freihandform: Form 2004">
+                            <a:extLst>
+                                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                    <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                    id="{41FE6C87-39EA-874A-B056-D8872293BA15}"/>
+                                </a:ext>
+                            </a:extLst>
+                        </p:cNvPr>
+                        <p:cNvSpPr/>
+                        <p:nvPr/>
+                    </p:nvSpPr>
+                    <p:spPr>
+                        <a:xfrm>
+                            <a:off x="8939315" y="4088747"/>
+                            <a:ext cx="557686" cy="557685"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="roundRect">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:blipFill dpi="0" rotWithShape="1">
+                            <a:blip r:embed="rId7" cstate="screen">
+                                <a:extLst>
+                                    <a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
+                                        <a14:useLocalDpi
+                                                xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main"/>
+                                    </a:ext>
+                                </a:extLst>
+                            </a:blip>
+                            <a:srcRect/>
+                            <a:tile tx="-603250" ty="0" sx="35000" sy="35000" flip="none" algn="tl"/>
+                        </a:blipFill>
+                        <a:ln w="11626" cap="flat">
+                            <a:noFill/>
+                            <a:prstDash val="solid"/>
+                            <a:miter/>
+                        </a:ln>
+                    </p:spPr>
+                    <p:txBody>
+                        <a:bodyPr rtlCol="0" anchor="ctr"/>
+                        <a:lstStyle/>
+                        <a:p>
+                            <a:endParaRPr lang="de-DE"/>
+                        </a:p>
+                    </p:txBody>
+                </p:sp>
+                <p:sp>
+                    <p:nvSpPr>
+                        <p:cNvPr id="64" name="Freihandform: Form 2005">
+                            <a:extLst>
+                                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                    <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                    id="{D79788F1-FF34-AD40-8E7E-374FB525461F}"/>
+                                </a:ext>
+                            </a:extLst>
+                        </p:cNvPr>
+                        <p:cNvSpPr/>
+                        <p:nvPr/>
+                    </p:nvSpPr>
+                    <p:spPr>
+                        <a:xfrm>
+                            <a:off x="9580552" y="4088747"/>
+                            <a:ext cx="557686" cy="557685"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="roundRect">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:solidFill>
+                            <a:schemeClr val="accent5">
+                                <a:lumMod val="40000"/>
+                                <a:lumOff val="60000"/>
+                            </a:schemeClr>
+                        </a:solidFill>
+                        <a:ln w="11626" cap="flat">
+                            <a:noFill/>
+                            <a:prstDash val="solid"/>
+                            <a:miter/>
+                        </a:ln>
+                    </p:spPr>
+                    <p:txBody>
+                        <a:bodyPr rtlCol="0" anchor="ctr"/>
+                        <a:lstStyle/>
+                        <a:p>
+                            <a:endParaRPr lang="de-DE"/>
+                        </a:p>
+                    </p:txBody>
+                </p:sp>
+                <p:sp>
+                    <p:nvSpPr>
+                        <p:cNvPr id="66" name="Freihandform: Form 2007">
+                            <a:extLst>
+                                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                    <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                    id="{3E5DEF41-01A9-004F-B544-6C6E0E0609B6}"/>
+                                </a:ext>
+                            </a:extLst>
+                        </p:cNvPr>
+                        <p:cNvSpPr/>
+                        <p:nvPr/>
+                    </p:nvSpPr>
+                    <p:spPr>
+                        <a:xfrm>
+                            <a:off x="11182599" y="4410411"/>
+                            <a:ext cx="236024" cy="236024"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="roundRect">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:solidFill>
+                            <a:schemeClr val="accent6"/>
+                        </a:solidFill>
+                        <a:ln w="11626" cap="flat">
+                            <a:noFill/>
+                            <a:prstDash val="solid"/>
+                            <a:miter/>
+                        </a:ln>
+                    </p:spPr>
+                    <p:txBody>
+                        <a:bodyPr rtlCol="0" anchor="ctr"/>
+                        <a:lstStyle/>
+                        <a:p>
+                            <a:endParaRPr lang="de-DE"/>
+                        </a:p>
+                    </p:txBody>
+                </p:sp>
+                <p:sp>
+                    <p:nvSpPr>
+                        <p:cNvPr id="68" name="Freihandform: Form 2009">
+                            <a:extLst>
+                                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                    <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                    id="{E325A9D8-BB47-F549-9622-597F95679239}"/>
+                                </a:ext>
+                            </a:extLst>
+                        </p:cNvPr>
+                        <p:cNvSpPr/>
+                        <p:nvPr/>
+                    </p:nvSpPr>
+                    <p:spPr>
+                        <a:xfrm>
+                            <a:off x="9580552" y="3769174"/>
+                            <a:ext cx="236137" cy="236024"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="roundRect">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:solidFill>
+                            <a:schemeClr val="accent3">
+                                <a:lumMod val="60000"/>
+                                <a:lumOff val="40000"/>
+                            </a:schemeClr>
+                        </a:solidFill>
+                        <a:ln w="11626" cap="flat">
+                            <a:noFill/>
+                            <a:prstDash val="solid"/>
+                            <a:miter/>
+                        </a:ln>
+                    </p:spPr>
+                    <p:txBody>
+                        <a:bodyPr rtlCol="0" anchor="ctr"/>
+                        <a:lstStyle/>
+                        <a:p>
+                            <a:endParaRPr lang="de-DE"/>
+                        </a:p>
+                    </p:txBody>
+                </p:sp>
+                <p:sp>
+                    <p:nvSpPr>
+                        <p:cNvPr id="69" name="Freihandform: Form 2010">
+                            <a:extLst>
+                                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                    <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                    id="{845CA399-371C-BA48-8480-A9C82E08C8DC}"/>
+                                </a:ext>
+                            </a:extLst>
+                        </p:cNvPr>
+                        <p:cNvSpPr/>
+                        <p:nvPr/>
+                    </p:nvSpPr>
+                    <p:spPr>
+                        <a:xfrm>
+                            <a:off x="9902216" y="3769174"/>
+                            <a:ext cx="236024" cy="236024"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="roundRect">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:solidFill>
+                            <a:schemeClr val="accent6">
+                                <a:lumMod val="60000"/>
+                                <a:lumOff val="40000"/>
+                            </a:schemeClr>
+                        </a:solidFill>
+                        <a:ln w="11626" cap="flat">
+                            <a:noFill/>
+                            <a:prstDash val="solid"/>
+                            <a:miter/>
+                        </a:ln>
+                    </p:spPr>
+                    <p:txBody>
+                        <a:bodyPr rtlCol="0" anchor="ctr"/>
+                        <a:lstStyle/>
+                        <a:p>
+                            <a:endParaRPr lang="de-DE"/>
+                        </a:p>
+                    </p:txBody>
+                </p:sp>
+                <p:sp>
+                    <p:nvSpPr>
+                        <p:cNvPr id="71" name="Freihandform: Form 2012">
+                            <a:extLst>
+                                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                    <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                    id="{7F0D4381-398F-3942-B436-A3566AAD092A}"/>
+                                </a:ext>
+                            </a:extLst>
+                        </p:cNvPr>
+                        <p:cNvSpPr/>
+                        <p:nvPr/>
+                    </p:nvSpPr>
+                    <p:spPr>
+                        <a:xfrm>
+                            <a:off x="9902216" y="3449600"/>
+                            <a:ext cx="236024" cy="236024"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="roundRect">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:solidFill>
+                            <a:schemeClr val="accent3">
+                                <a:lumMod val="60000"/>
+                                <a:lumOff val="40000"/>
+                            </a:schemeClr>
+                        </a:solidFill>
+                        <a:ln w="11626" cap="flat">
+                            <a:noFill/>
+                            <a:prstDash val="solid"/>
+                            <a:miter/>
+                        </a:ln>
+                    </p:spPr>
+                    <p:txBody>
+                        <a:bodyPr rtlCol="0" anchor="ctr"/>
+                        <a:lstStyle/>
+                        <a:p>
+                            <a:endParaRPr lang="de-DE"/>
+                        </a:p>
+                    </p:txBody>
+                </p:sp>
+                <p:sp>
+                    <p:nvSpPr>
+                        <p:cNvPr id="72" name="Freihandform: Form 2013">
+                            <a:extLst>
+                                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                    <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                    id="{80904DCD-2AF6-524A-92CF-AFC9B6A76D42}"/>
+                                </a:ext>
+                            </a:extLst>
+                        </p:cNvPr>
+                        <p:cNvSpPr/>
+                        <p:nvPr/>
+                    </p:nvSpPr>
+                    <p:spPr>
+                        <a:xfrm>
+                            <a:off x="9902159" y="3134743"/>
+                            <a:ext cx="236137" cy="236024"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="roundRect">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:solidFill>
+                            <a:schemeClr val="accent3">
+                                <a:lumMod val="60000"/>
+                                <a:lumOff val="40000"/>
+                            </a:schemeClr>
+                        </a:solidFill>
+                        <a:ln w="11626" cap="flat">
+                            <a:noFill/>
+                            <a:prstDash val="solid"/>
+                            <a:miter/>
+                        </a:ln>
+                    </p:spPr>
+                    <p:txBody>
+                        <a:bodyPr rtlCol="0" anchor="ctr"/>
+                        <a:lstStyle/>
+                        <a:p>
+                            <a:endParaRPr lang="de-DE"/>
+                        </a:p>
+                    </p:txBody>
+                </p:sp>
+                <p:sp>
+                    <p:nvSpPr>
+                        <p:cNvPr id="75" name="Freihandform: Form 2016">
+                            <a:extLst>
+                                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                    <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                    id="{85903C0D-8448-3F4F-9453-3F7352444118}"/>
+                                </a:ext>
+                            </a:extLst>
+                        </p:cNvPr>
+                        <p:cNvSpPr/>
+                        <p:nvPr/>
+                    </p:nvSpPr>
+                    <p:spPr>
+                        <a:xfrm>
+                            <a:off x="8941407" y="3130026"/>
+                            <a:ext cx="236024" cy="236024"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="roundRect">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:solidFill>
+                            <a:schemeClr val="accent3">
+                                <a:lumMod val="60000"/>
+                                <a:lumOff val="40000"/>
+                            </a:schemeClr>
+                        </a:solidFill>
+                        <a:ln w="11626" cap="flat">
+                            <a:noFill/>
+                            <a:prstDash val="solid"/>
+                            <a:miter/>
+                        </a:ln>
+                    </p:spPr>
+                    <p:txBody>
+                        <a:bodyPr rtlCol="0" anchor="ctr"/>
+                        <a:lstStyle/>
+                        <a:p>
+                            <a:endParaRPr lang="de-DE"/>
+                        </a:p>
+                    </p:txBody>
+                </p:sp>
+                <p:sp>
+                    <p:nvSpPr>
+                        <p:cNvPr id="76" name="Freihandform: Form 2017">
+                            <a:extLst>
+                                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                    <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                    id="{BE697BE7-196D-2541-8A84-65559A7F6004}"/>
+                                </a:ext>
+                            </a:extLst>
+                        </p:cNvPr>
+                        <p:cNvSpPr/>
+                        <p:nvPr/>
+                    </p:nvSpPr>
+                    <p:spPr>
+                        <a:xfrm>
+                            <a:off x="9260979" y="3127939"/>
+                            <a:ext cx="557686" cy="557685"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="roundRect">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:solidFill>
+                            <a:schemeClr val="accent5">
+                                <a:lumMod val="40000"/>
+                                <a:lumOff val="60000"/>
+                            </a:schemeClr>
+                        </a:solidFill>
+                        <a:ln w="11626" cap="flat">
+                            <a:noFill/>
+                            <a:prstDash val="solid"/>
+                            <a:miter/>
+                        </a:ln>
+                    </p:spPr>
+                    <p:txBody>
+                        <a:bodyPr rtlCol="0" anchor="ctr"/>
+                        <a:lstStyle/>
+                        <a:p>
+                            <a:endParaRPr lang="de-DE"/>
+                        </a:p>
+                    </p:txBody>
+                </p:sp>
+                <p:sp>
+                    <p:nvSpPr>
+                        <p:cNvPr id="77" name="Freihandform: Form 2018">
+                            <a:extLst>
+                                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                    <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                    id="{B9F02986-12E7-FA4A-8330-7EE6AF0E3FF8}"/>
+                                </a:ext>
+                            </a:extLst>
+                        </p:cNvPr>
+                        <p:cNvSpPr/>
+                        <p:nvPr/>
+                    </p:nvSpPr>
+                    <p:spPr>
+                        <a:xfrm>
+                            <a:off x="8939315" y="2486702"/>
+                            <a:ext cx="557686" cy="557685"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="roundRect">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:solidFill>
+                            <a:srgbClr val="E8E6E6"/>
+                        </a:solidFill>
+                        <a:ln w="11626" cap="flat">
+                            <a:noFill/>
+                            <a:prstDash val="solid"/>
+                            <a:miter/>
+                        </a:ln>
+                    </p:spPr>
+                    <p:txBody>
+                        <a:bodyPr rtlCol="0" anchor="ctr"/>
+                        <a:lstStyle/>
+                        <a:p>
+                            <a:endParaRPr lang="de-DE"/>
+                        </a:p>
+                    </p:txBody>
+                </p:sp>
+                <p:sp>
+                    <p:nvSpPr>
+                        <p:cNvPr id="90" name="Freihandform: Form 2031">
+                            <a:extLst>
+                                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                    <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                    id="{A83B4D1A-C871-7A44-9FBF-BB538078FA69}"/>
+                                </a:ext>
+                            </a:extLst>
+                        </p:cNvPr>
+                        <p:cNvSpPr/>
+                        <p:nvPr/>
+                    </p:nvSpPr>
+                    <p:spPr>
+                        <a:xfrm>
+                            <a:off x="11182600" y="3769174"/>
+                            <a:ext cx="557686" cy="557685"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="roundRect">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:solidFill>
+                            <a:schemeClr val="accent6"/>
+                        </a:solidFill>
+                        <a:ln w="11626" cap="flat">
+                            <a:noFill/>
+                            <a:prstDash val="solid"/>
+                            <a:miter/>
+                        </a:ln>
+                    </p:spPr>
+                    <p:txBody>
+                        <a:bodyPr rtlCol="0" anchor="ctr"/>
+                        <a:lstStyle/>
+                        <a:p>
+                            <a:endParaRPr lang="de-DE"/>
+                        </a:p>
+                    </p:txBody>
+                </p:sp>
+                <p:sp>
+                    <p:nvSpPr>
+                        <p:cNvPr id="91" name="Freihandform: Form 2032">
+                            <a:extLst>
+                                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                    <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                    id="{C299B6D6-1D78-6343-B730-AB42AAE4A1D7}"/>
+                                </a:ext>
+                            </a:extLst>
+                        </p:cNvPr>
+                        <p:cNvSpPr/>
+                        <p:nvPr/>
+                    </p:nvSpPr>
+                    <p:spPr>
+                        <a:xfrm>
+                            <a:off x="11182602" y="3449600"/>
+                            <a:ext cx="236024" cy="236024"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="roundRect">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:solidFill>
+                            <a:schemeClr val="accent3">
+                                <a:lumMod val="60000"/>
+                                <a:lumOff val="40000"/>
+                            </a:schemeClr>
+                        </a:solidFill>
+                        <a:ln w="11626" cap="flat">
+                            <a:noFill/>
+                            <a:prstDash val="solid"/>
+                            <a:miter/>
+                        </a:ln>
+                    </p:spPr>
+                    <p:txBody>
+                        <a:bodyPr rtlCol="0" anchor="ctr"/>
+                        <a:lstStyle/>
+                        <a:p>
+                            <a:endParaRPr lang="de-DE"/>
+                        </a:p>
+                    </p:txBody>
+                </p:sp>
+                <p:sp>
+                    <p:nvSpPr>
+                        <p:cNvPr id="156" name="Freihandform: Form 2097">
+                            <a:extLst>
+                                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                    <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                    id="{ACBBF493-5378-3447-8A1A-F65C85D1B252}"/>
+                                </a:ext>
+                            </a:extLst>
+                        </p:cNvPr>
+                        <p:cNvSpPr/>
+                        <p:nvPr/>
+                    </p:nvSpPr>
+                    <p:spPr>
+                        <a:xfrm>
+                            <a:off x="10382622" y="5373310"/>
+                            <a:ext cx="75193" cy="75193"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="roundRect">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:solidFill>
+                            <a:schemeClr val="tx1">
+                                <a:lumMod val="10000"/>
+                                <a:lumOff val="90000"/>
+                            </a:schemeClr>
+                        </a:solidFill>
+                        <a:ln w="11626" cap="flat">
+                            <a:noFill/>
+                            <a:prstDash val="solid"/>
+                            <a:miter/>
+                        </a:ln>
+                    </p:spPr>
+                    <p:txBody>
+                        <a:bodyPr rtlCol="0" anchor="ctr"/>
+                        <a:lstStyle/>
+                        <a:p>
+                            <a:endParaRPr lang="de-DE"/>
+                        </a:p>
+                    </p:txBody>
+                </p:sp>
+                <p:sp>
+                    <p:nvSpPr>
+                        <p:cNvPr id="157" name="Freihandform: Form 2098">
+                            <a:extLst>
+                                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                    <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                    id="{816A4807-C886-9048-BE16-4C6343AF8B10}"/>
+                                </a:ext>
+                            </a:extLst>
+                        </p:cNvPr>
+                        <p:cNvSpPr/>
+                        <p:nvPr/>
+                    </p:nvSpPr>
+                    <p:spPr>
+                        <a:xfrm>
+                            <a:off x="10221791" y="5373310"/>
+                            <a:ext cx="75193" cy="75193"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="roundRect">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:solidFill>
+                            <a:schemeClr val="accent6"/>
+                        </a:solidFill>
+                        <a:ln w="11626" cap="flat">
+                            <a:noFill/>
+                            <a:prstDash val="solid"/>
+                            <a:miter/>
+                        </a:ln>
+                    </p:spPr>
+                    <p:txBody>
+                        <a:bodyPr rtlCol="0" anchor="ctr"/>
+                        <a:lstStyle/>
+                        <a:p>
+                            <a:endParaRPr lang="de-DE"/>
+                        </a:p>
+                    </p:txBody>
+                </p:sp>
+                <p:sp>
+                    <p:nvSpPr>
+                        <p:cNvPr id="732" name="Freihandform: Form 1996">
+                            <a:extLst>
+                                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                    <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                    id="{7F4CF808-5FBD-7B45-8B70-07D7B08721BD}"/>
+                                </a:ext>
+                            </a:extLst>
+                        </p:cNvPr>
+                        <p:cNvSpPr/>
+                        <p:nvPr/>
+                    </p:nvSpPr>
+                    <p:spPr>
+                        <a:xfrm>
+                            <a:off x="8298078" y="4412498"/>
+                            <a:ext cx="236024" cy="236024"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="roundRect">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:solidFill>
+                            <a:schemeClr val="bg2"/>
+                        </a:solidFill>
+                        <a:ln w="11626" cap="flat">
+                            <a:noFill/>
+                            <a:prstDash val="solid"/>
+                            <a:miter/>
+                        </a:ln>
+                    </p:spPr>
+                    <p:txBody>
+                        <a:bodyPr rtlCol="0" anchor="ctr"/>
+                        <a:lstStyle/>
+                        <a:p>
+                            <a:endParaRPr lang="de-DE"/>
+                        </a:p>
+                    </p:txBody>
+                </p:sp>
+                <p:pic>
+                    <p:nvPicPr>
+                        <p:cNvPr id="2050" name="Picture 2" descr="Coursera - Wikipedia">
+                            <a:extLst>
+                                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                    <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                    id="{34B51CB3-B1DF-7944-9C75-1AFE3C9CA202}"/>
+                                </a:ext>
+                            </a:extLst>
+                        </p:cNvPr>
+                        <p:cNvPicPr>
+                            <a:picLocks noChangeAspect="1" noChangeArrowheads="1"/>
+                        </p:cNvPicPr>
+                        <p:nvPr/>
+                    </p:nvPicPr>
+                    <p:blipFill>
+                        <a:blip r:embed="rId8" cstate="screen">
+                            <a:extLst>
+                                <a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
+                                    <a14:useLocalDpi xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main"/>
+                                </a:ext>
+                            </a:extLst>
+                        </a:blip>
+                        <a:srcRect/>
+                        <a:stretch>
+                            <a:fillRect/>
+                        </a:stretch>
+                    </p:blipFill>
+                    <p:spPr bwMode="auto">
+                        <a:xfrm>
+                            <a:off x="8941408" y="4088671"/>
+                            <a:ext cx="568910" cy="568910"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="roundRect">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:noFill/>
+                        <a:extLst>
+                            <a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+                                <a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+                                    <a:solidFill>
+                                        <a:srgbClr val="FFFFFF"/>
+                                    </a:solidFill>
+                                </a14:hiddenFill>
+                            </a:ext>
+                        </a:extLst>
+                    </p:spPr>
+                </p:pic>
+                <p:pic>
+                    <p:nvPicPr>
+                        <p:cNvPr id="2052" name="Picture 4">
+                            <a:extLst>
+                                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                    <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                    id="{CE35016C-90F1-E340-B7E2-0043A23B186C}"/>
+                                </a:ext>
+                            </a:extLst>
+                        </p:cNvPr>
+                        <p:cNvPicPr>
+                            <a:picLocks noChangeAspect="1" noChangeArrowheads="1"/>
+                        </p:cNvPicPr>
+                        <p:nvPr/>
+                    </p:nvPicPr>
+                    <p:blipFill>
+                        <a:blip r:embed="rId9" cstate="screen">
+                            <a:extLst>
+                                <a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
+                                    <a14:useLocalDpi xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main"/>
+                                </a:ext>
+                            </a:extLst>
+                        </a:blip>
+                        <a:srcRect/>
+                        <a:stretch>
+                            <a:fillRect/>
+                        </a:stretch>
+                    </p:blipFill>
+                    <p:spPr bwMode="auto">
+                        <a:xfrm>
+                            <a:off x="10181059" y="3654317"/>
+                            <a:ext cx="982122" cy="465740"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="rect">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:noFill/>
+                        <a:extLst>
+                            <a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+                                <a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+                                    <a:solidFill>
+                                        <a:srgbClr val="FFFFFF"/>
+                                    </a:solidFill>
+                                </a14:hiddenFill>
+                            </a:ext>
+                        </a:extLst>
+                    </p:spPr>
+                </p:pic>
+                <p:sp>
+                    <p:nvSpPr>
+                        <p:cNvPr id="733" name="Freihandform: Form 2100">
+                            <a:extLst>
+                                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                    <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                    id="{383EF510-E170-4A42-BB9C-A6CE89782FD1}"/>
+                                </a:ext>
+                            </a:extLst>
+                        </p:cNvPr>
+                        <p:cNvSpPr/>
+                        <p:nvPr/>
+                    </p:nvSpPr>
+                    <p:spPr>
+                        <a:xfrm>
+                            <a:off x="10423177" y="4399649"/>
+                            <a:ext cx="75193" cy="75193"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="roundRect">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:solidFill>
+                            <a:schemeClr val="tx1">
+                                <a:lumMod val="10000"/>
+                                <a:lumOff val="90000"/>
+                            </a:schemeClr>
+                        </a:solidFill>
+                        <a:ln w="11626" cap="flat">
+                            <a:noFill/>
+                            <a:prstDash val="solid"/>
+                            <a:miter/>
+                        </a:ln>
+                    </p:spPr>
+                    <p:txBody>
+                        <a:bodyPr rtlCol="0" anchor="ctr"/>
+                        <a:lstStyle/>
+                        <a:p>
+                            <a:endParaRPr lang="de-DE"/>
+                        </a:p>
+                    </p:txBody>
+                </p:sp>
+                <p:sp>
+                    <p:nvSpPr>
+                        <p:cNvPr id="735" name="Freihandform: Form 2100">
+                            <a:extLst>
+                                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                    <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                    id="{B27248F8-22D5-6547-82A3-7022557F8AB2}"/>
+                                </a:ext>
+                            </a:extLst>
+                        </p:cNvPr>
+                        <p:cNvSpPr/>
+                        <p:nvPr/>
+                    </p:nvSpPr>
+                    <p:spPr>
+                        <a:xfrm>
+                            <a:off x="10382623" y="3455888"/>
+                            <a:ext cx="75193" cy="75193"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="roundRect">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:solidFill>
+                            <a:schemeClr val="tx1">
+                                <a:lumMod val="10000"/>
+                                <a:lumOff val="90000"/>
+                            </a:schemeClr>
+                        </a:solidFill>
+                        <a:ln w="11626" cap="flat">
+                            <a:noFill/>
+                            <a:prstDash val="solid"/>
+                            <a:miter/>
+                        </a:ln>
+                    </p:spPr>
+                    <p:txBody>
+                        <a:bodyPr rtlCol="0" anchor="ctr"/>
+                        <a:lstStyle/>
+                        <a:p>
+                            <a:endParaRPr lang="de-DE"/>
+                        </a:p>
+                    </p:txBody>
+                </p:sp>
+                <p:sp>
+                    <p:nvSpPr>
+                        <p:cNvPr id="736" name="Freihandform: Form 2101">
+                            <a:extLst>
+                                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                    <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                    id="{D85319D8-B862-C742-AE35-CE80EF632088}"/>
+                                </a:ext>
+                            </a:extLst>
+                        </p:cNvPr>
+                        <p:cNvSpPr/>
+                        <p:nvPr/>
+                    </p:nvSpPr>
+                    <p:spPr>
+                        <a:xfrm>
+                            <a:off x="10221790" y="3455888"/>
+                            <a:ext cx="75193" cy="75193"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="roundRect">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:solidFill>
+                            <a:schemeClr val="tx1">
+                                <a:lumMod val="10000"/>
+                                <a:lumOff val="90000"/>
+                            </a:schemeClr>
+                        </a:solidFill>
+                        <a:ln w="11626" cap="flat">
+                            <a:noFill/>
+                            <a:prstDash val="solid"/>
+                            <a:miter/>
+                        </a:ln>
+                    </p:spPr>
+                    <p:txBody>
+                        <a:bodyPr rtlCol="0" anchor="ctr"/>
+                        <a:lstStyle/>
+                        <a:p>
+                            <a:endParaRPr lang="de-DE"/>
+                        </a:p>
+                    </p:txBody>
+                </p:sp>
+                <p:sp>
+                    <p:nvSpPr>
+                        <p:cNvPr id="737" name="Freihandform: Form 2013">
+                            <a:extLst>
+                                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                    <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                    id="{16226905-C8EC-624F-A1BC-FE7A870CC77F}"/>
+                                </a:ext>
+                            </a:extLst>
+                        </p:cNvPr>
+                        <p:cNvSpPr/>
+                        <p:nvPr/>
+                    </p:nvSpPr>
+                    <p:spPr>
+                        <a:xfrm>
+                            <a:off x="10520998" y="3125821"/>
+                            <a:ext cx="236137" cy="236024"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="roundRect">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:solidFill>
+                            <a:schemeClr val="accent6">
+                                <a:lumMod val="60000"/>
+                                <a:lumOff val="40000"/>
+                            </a:schemeClr>
+                        </a:solidFill>
+                        <a:ln w="11626" cap="flat">
+                            <a:noFill/>
+                            <a:prstDash val="solid"/>
+                            <a:miter/>
+                        </a:ln>
+                    </p:spPr>
+                    <p:txBody>
+                        <a:bodyPr rtlCol="0" anchor="ctr"/>
+                        <a:lstStyle/>
+                        <a:p>
+                            <a:endParaRPr lang="de-DE"/>
+                        </a:p>
+                    </p:txBody>
+                </p:sp>
+            </p:grpSp>
+            <p:sp>
+                <p:nvSpPr>
+                    <p:cNvPr id="739" name="Foliennummernplatzhalter 5">
+                        <a:extLst>
+                            <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                id="{97E30B54-9DC4-964A-93A6-EDE7E6F9C95F}"/>
+                            </a:ext>
+                        </a:extLst>
+                    </p:cNvPr>
+                    <p:cNvSpPr>
+                        <a:spLocks noGrp="1"/>
+                    </p:cNvSpPr>
+                    <p:nvPr>
+                        <p:ph type="sldNum" sz="quarter" idx="4"/>
+                    </p:nvPr>
+                </p:nvSpPr>
+                <p:spPr>
+                    <a:xfrm>
+                        <a:off x="8610600" y="6356350"/>
+                        <a:ext cx="3082636" cy="365125"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                        <a:avLst/>
+                    </a:prstGeom>
+                </p:spPr>
+                <p:txBody>
+                    <a:bodyPr vert="horz" lIns="91440" tIns="45720" rIns="91440" bIns="45720" rtlCol="0" anchor="ctr"/>
+                    <a:lstStyle>
+                        <a:lvl1pPr algn="r">
+                            <a:defRPr lang="de-DE" sz="1000" smtClean="0">
+                                <a:solidFill>
+                                    <a:srgbClr val="405052"/>
+                                </a:solidFill>
+                                <a:latin typeface="Roboto" panose="02000000000000000000" pitchFamily="2" charset="0"/>
+                                <a:ea typeface="Roboto" panose="02000000000000000000" pitchFamily="2" charset="0"/>
+                            </a:defRPr>
+                        </a:lvl1pPr>
+                    </a:lstStyle>
+                    <a:p>
+                        <a:r>
+                            <a:rPr lang="de-DE"/>
+                            <a:t>chunkx |</a:t>
+                        </a:r>
+                        <a:fld id="{9A6C740A-0234-5349-9FDA-941F06153BF4}" type="slidenum">
+                            <a:rPr lang="de-DE" smtClean="0"/>
+                            <a:pPr/>
+                            <a:t>2</a:t>
+                        </a:fld>
+                        <a:endParaRPr lang="de-DE"/>
+                    </a:p>
+                </p:txBody>
+            </p:sp>
+            <p:pic>
+                <p:nvPicPr>
+                    <p:cNvPr id="73" name="Picture 2">
+                        <a:extLst>
+                            <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                id="{A312D4D1-0689-FE4C-BB74-52E876ADB244}"/>
+                            </a:ext>
+                        </a:extLst>
+                    </p:cNvPr>
+                    <p:cNvPicPr>
+                        <a:picLocks noChangeAspect="1" noChangeArrowheads="1"/>
+                    </p:cNvPicPr>
+                    <p:nvPr/>
+                </p:nvPicPr>
+                <p:blipFill>
+                    <a:blip r:embed="rId10" cstate="screen">
+                        <a:extLst>
+                            <a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
+                                <a14:useLocalDpi xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main"/>
+                            </a:ext>
+                        </a:extLst>
+                    </a:blip>
+                    <a:srcRect/>
+                    <a:stretch>
+                        <a:fillRect/>
+                    </a:stretch>
+                </p:blipFill>
+                <p:spPr bwMode="auto">
+                    <a:xfrm>
+                        <a:off x="557205" y="5962967"/>
+                        <a:ext cx="1353296" cy="239470"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                        <a:avLst/>
+                    </a:prstGeom>
+                    <a:noFill/>
+                    <a:extLst>
+                        <a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+                            <a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+                                <a:solidFill>
+                                    <a:srgbClr val="FFFFFF"/>
+                                </a:solidFill>
+                            </a14:hiddenFill>
+                        </a:ext>
+                    </a:extLst>
+                </p:spPr>
+            </p:pic>
+            <p:sp>
+                <p:nvSpPr>
+                    <p:cNvPr id="74" name="Titel 2">
+                        <a:extLst>
+                            <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                id="{7424363D-F8D8-B24C-BA0A-04804D5C8ED4}"/>
+                            </a:ext>
+                        </a:extLst>
+                    </p:cNvPr>
+                    <p:cNvSpPr txBox="1">
+                        <a:spLocks/>
+                    </p:cNvSpPr>
+                    <p:nvPr/>
+                </p:nvSpPr>
+                <p:spPr>
+                    <a:xfrm>
+                        <a:off x="532800" y="523737"/>
+                        <a:ext cx="11194472" cy="465740"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                        <a:avLst/>
+                    </a:prstGeom>
+                </p:spPr>
+                <p:txBody>
+                    <a:bodyPr vert="horz" lIns="0" tIns="0" rIns="0" bIns="0" rtlCol="0" anchor="t">
+                        <a:noAutofit/>
+                    </a:bodyPr>
+                    <a:lstStyle>
+                        <a:lvl1pPr algn="l" defTabSz="914400" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="90000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPct val="0"/>
+                            </a:spcBef>
+                            <a:buNone/>
+                            <a:defRPr sz="2800" b="1" i="0" kern="1200">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Rubrik New Medium Italic" pitchFamily="2" charset="77"/>
+                                <a:ea typeface="+mj-ea"/>
+                                <a:cs typeface="+mj-cs"/>
+                            </a:defRPr>
+                        </a:lvl1pPr>
+                    </a:lstStyle>
+                    <a:p>
+                        <a:r>
+                            <a:rPr lang="de-DE" dirty="0">
+                                <a:latin typeface="Rubrik New Bold" pitchFamily="2" charset="77"/>
+                            </a:rPr>
+                            <a:t>Die Anzahl digitaler Lernangebote wächst rapide,</a:t>
+                        </a:r>
+                        <a:br>
+                            <a:rPr lang="de-DE" dirty="0">
+                                <a:latin typeface="Rubrik New Bold" pitchFamily="2" charset="77"/>
+                            </a:rPr>
+                        </a:br>
+                        <a:r>
+                            <a:rPr lang="de-DE" dirty="0">
+                                <a:latin typeface="Rubrik New Bold" pitchFamily="2" charset="77"/>
+                            </a:rPr>
+                            <a:t>aber sie wirken nicht nachhaltig.</a:t>
+                        </a:r>
+                    </a:p>
+                </p:txBody>
+            </p:sp>
+            <p:sp>
+                <p:nvSpPr>
+                    <p:cNvPr id="78" name="Titel 2">
+                        <a:extLst>
+                            <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                id="{44FE9BCF-45D7-2F48-84C1-F9A33503989D}"/>
+                            </a:ext>
+                        </a:extLst>
+                    </p:cNvPr>
+                    <p:cNvSpPr txBox="1">
+                        <a:spLocks/>
+                    </p:cNvSpPr>
+                    <p:nvPr/>
+                </p:nvSpPr>
+                <p:spPr>
+                    <a:xfrm>
+                        <a:off x="532800" y="90000"/>
+                        <a:ext cx="11194472" cy="324257"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                        <a:avLst/>
+                    </a:prstGeom>
+                </p:spPr>
+                <p:txBody>
+                    <a:bodyPr vert="horz" lIns="0" tIns="0" rIns="0" bIns="0" rtlCol="0" anchor="b">
+                        <a:noAutofit/>
+                    </a:bodyPr>
+                    <a:lstStyle>
+                        <a:lvl1pPr algn="l" defTabSz="914400" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="90000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPct val="0"/>
+                            </a:spcBef>
+                            <a:buNone/>
+                            <a:defRPr sz="2800" b="1" i="0" kern="1200">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Rubrik New Medium Italic" pitchFamily="2" charset="77"/>
+                                <a:ea typeface="+mj-ea"/>
+                                <a:cs typeface="+mj-cs"/>
+                            </a:defRPr>
+                        </a:lvl1pPr>
+                    </a:lstStyle>
+                    <a:p>
+                        <a:r>
+                            <a:rPr lang="de-DE" sz="1200" b="0" u="sng" dirty="0">
+                                <a:solidFill>
+                                    <a:schemeClr val="accent6"/>
+                                </a:solidFill>
+                                <a:latin typeface="Rubrik New" pitchFamily="2" charset="77"/>
+                            </a:rPr>
+                            <a:t>Herausforderung 1:</a:t>
+                        </a:r>
+                        <a:endParaRPr lang="de-DE" sz="1200" b="0" u="sng" dirty="0">
+                            <a:latin typeface="Rubrik New" pitchFamily="2" charset="77"/>
+                        </a:endParaRPr>
+                    </a:p>
+                </p:txBody>
+            </p:sp>
+            <p:sp>
+                <p:nvSpPr>
+                    <p:cNvPr id="49" name="Titel 2">
+                        <a:extLst>
+                            <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                                                id="{1EDB8C73-5876-4D4A-AAD3-048FCCFBE774}"/>
+                            </a:ext>
+                        </a:extLst>
+                    </p:cNvPr>
+                    <p:cNvSpPr txBox="1">
+                        <a:spLocks/>
+                    </p:cNvSpPr>
+                    <p:nvPr/>
+                </p:nvSpPr>
+                <p:spPr>
+                    <a:xfrm>
+                        <a:off x="532800" y="5485218"/>
+                        <a:ext cx="1596862" cy="324257"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                        <a:avLst/>
+                    </a:prstGeom>
+                </p:spPr>
+                <p:txBody>
+                    <a:bodyPr vert="horz" lIns="0" tIns="0" rIns="36000" bIns="0" rtlCol="0" anchor="b">
+                        <a:noAutofit/>
+                    </a:bodyPr>
+                    <a:lstStyle>
+                        <a:lvl1pPr algn="l" defTabSz="914400" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="90000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPct val="0"/>
+                            </a:spcBef>
+                            <a:buNone/>
+                            <a:defRPr sz="2800" b="1" i="0" kern="1200">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Rubrik New Medium Italic" pitchFamily="2" charset="77"/>
+                                <a:ea typeface="+mj-ea"/>
+                                <a:cs typeface="+mj-cs"/>
+                            </a:defRPr>
+                        </a:lvl1pPr>
+                    </a:lstStyle>
+                    <a:p>
+                        <a:r>
+                            <a:rPr lang="de-DE" sz="1200" b="0" u="sng" dirty="0">
+                                <a:solidFill>
+                                    <a:schemeClr val="accent6"/>
+                                </a:solidFill>
+                                <a:latin typeface="Rubrik New" pitchFamily="2" charset="77"/>
+                            </a:rPr>
+                            <a:t>Beispiel:</a:t>
+                        </a:r>
+                        <a:endParaRPr lang="de-DE" sz="1200" b="0" u="sng" dirty="0">
+                            <a:latin typeface="Rubrik New" pitchFamily="2" charset="77"/>
+                        </a:endParaRPr>
+                    </a:p>
+                </p:txBody>
+            </p:sp>
+        </p:spTree>
+        <p:extLst>
+            <p:ext uri="{BB962C8B-B14F-4D97-AF65-F5344CB8AC3E}">
+                <p14:creationId xmlns:p14="http://schemas.microsoft.com/office/powerpoint/2010/main" val="2668569735"/>
+            </p:ext>
+        </p:extLst>
+    </p:cSld>
+    <p:clrMapOvr>
+        <a:masterClrMapping/>
+    </p:clrMapOvr>
+</p:sld>
