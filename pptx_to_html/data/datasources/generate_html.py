@@ -1,8 +1,8 @@
-from domain.entities.elements.Image import Image
-from domain.entities.elements.Text import Text
+from pptx_to_html.domain.entities.elements.Image import Image
+from pptx_to_html.domain.entities.elements.Text import Text
 import xml.etree.cElementTree as ET
 
-from domain.entities.elements.slide import Slide
+from pptx_to_html.domain.entities.elements.slide import Slide
 
 
 def generate_html(content: []):

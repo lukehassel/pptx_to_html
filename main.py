@@ -1,4 +1,4 @@
-from data.datasources.powerpoint import PowerPoint
+from pptx_to_html.data.datasources.powerpoint import PowerPoint
 
 if __name__ == '__main__':
     pp = PowerPoint(path="presentation/samplepptx.pptx")

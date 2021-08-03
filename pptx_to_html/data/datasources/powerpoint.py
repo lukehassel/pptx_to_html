@@ -1,10 +1,10 @@
 from pptx import Presentation
 from pptx.shapes.picture import Picture
 
-from domain.entities.elements.Image import Image
-from domain.entities.elements.Text import Text
-from domain.entities.elements.slide import Slide
-from data.datasources.generate_html import generate_html
+from pptx_to_html.domain.entities.elements.Image import Image
+from pptx_to_html.domain.entities.elements.Text import Text
+from pptx_to_html.domain.entities.elements.slide import Slide
+from pptx_to_html.data.datasources.generate_html import generate_html
 
 
 class PowerPointInterface:
