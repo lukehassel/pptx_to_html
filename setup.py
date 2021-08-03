@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="pptx_to_html-lukeehassel",
+    name="pptx_to_html",
     version="0.0.2",
     author="Example Author",
     author_email="lukeehassel@gmail.com",
