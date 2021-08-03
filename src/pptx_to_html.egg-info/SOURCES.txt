@@ -2,6 +2,7 @@ LICENSE
 README.md
 setup.py
 src/pptx_to_html/__init__.py
+src/pptx_to_html/example.py
 src/pptx_to_html.egg-info/PKG-INFO
 src/pptx_to_html.egg-info/SOURCES.txt
 src/pptx_to_html.egg-info/dependency_links.txt
