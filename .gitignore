@@ -115,3 +115,6 @@ dmypy.json
 
 .idea/
 venv1/
+venv1/bin/pip
+venv1/bin/pip3
+venv1/bin/pip3.8
